@@ -1,0 +1,6 @@
+.header__name {
+  margin: 0 20px 0 0;
+  min-height: 100%;
+  align-items: center;
+  display: flex;
+}

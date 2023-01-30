@@ -1,0 +1,9 @@
+.header__list {
+  display: none;
+  flex-direction: column;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background-color: #F3EDF7;
+}

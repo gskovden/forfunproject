@@ -1,0 +1,9 @@
+.login__input {
+  margin-bottom: 80px;
+  width: 280px;
+  height: 48px;
+}
+
+.login__input:last-of-type {
+  margin-bottom: 0;
+}

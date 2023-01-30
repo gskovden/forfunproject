@@ -1,0 +1,18 @@
+.login__button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 24px;
+  gap: 8px;
+  width: 325px;
+  height: 64px;
+  background: #6F1DF4;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+}
+
+.login__button:hover {
+  opacity: .5;
+}
