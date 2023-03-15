@@ -1,9 +1,9 @@
-const MyInput = () => {
-  return (
-    <div>
+import React from "react";
 
-    </div>
+const MyInput = React.forwardRef((props, ref) => {
+  return (
+    <input ref={ref} className="input" {...props} />
   )
-}
+})
 
 export default MyInput;

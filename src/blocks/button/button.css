@@ -1,5 +1,4 @@
-.header__button {
-  margin: 0 20px 0 0;
+.button {
   background-color: #6F1DF4;
   color: white;
   padding: 0px 24px;
@@ -10,6 +9,6 @@
   cursor: pointer;
 }
 
-.header__button:hover {
+.button:hover {
   opacity: .5;
 }

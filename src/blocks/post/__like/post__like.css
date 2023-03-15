@@ -1,4 +1,11 @@
 .post__like {
-  margin-right: 40px;
+  margin-left: 20px;
   cursor: pointer;
+  background-image: url(../../../images/post/like.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 30px;
+  height: 30px;
+  border: none;
+  background-color: none;
 }

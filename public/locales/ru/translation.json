@@ -1,0 +1,38 @@
+{
+  "login": {
+    "title": "ЛОГОТИП",
+    "button": "Войти",
+    "cookies": "Пользуясь нашим сайтом, вы соглашаетесь с тем, что мы используем cookies",
+    "placeholderLogin": "Логин",
+    "placeholderPassword": "Пароль",
+    "saveMe": "Запомнить меня",
+    "ok": "Принимаю"
+  },
+  "posts": {
+    "logo": "ЛОГОТИП",
+    "create": "Создать",
+    "user": "Пользователь",
+    "profile": "Профиль",
+    "myPosts": "Мои посты",
+    "exit": "Выйти",
+    "list": "Список постов",
+    "listNotFound": "Посты не найдены",
+    "firstPost": "Первый пост",
+    "secondPost": "Второй пост",
+    "thirdPost": "Третий пост",
+    "firstBody": "Первый текст",
+    "secondBody": "Второй текст",
+    "thirdBody": "Третий текст"
+  },
+  "footer": {
+    "copyright": "Все права защищены."
+  },
+  "postForm": {
+    "create": "Создать пост",
+    "placeholderTitle": "Название",
+    "placeholderText": "Текст"
+  },
+  "postItem": {
+    "delete": "Удалить"
+  }
+}

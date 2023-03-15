@@ -1,0 +1,38 @@
+{
+  "login": {
+    "title": "Logo",
+    "button": "Sign In",
+    "cookies": "By using our website, you agree to use of cookies",
+    "placeholderLogin": "Login",
+    "placeholderPassword": "Password",
+    "saveMe": "Save Me",
+    "ok": "Ok"
+  },
+  "posts": {
+    "logo": "LOGO",
+    "create": "Create",
+    "user": "User",
+    "profile": "Profile",
+    "myPosts": "My posts",
+    "exit": "Exit",
+    "list": "Posts list",
+    "listNotFound": "Posts not Found",
+    "firstPost": "First post",
+    "secondPost": "Second post",
+    "thirdPost": "Third post",
+    "firstBody": "First text",
+    "secondBody": "Second text",
+    "thirdBody": "Third text"
+  },
+  "footer": {
+    "copyright": "All rights reserved."
+  },
+  "postForm": {
+    "create": "Create post",
+    "placeholderTitle": "Title",
+    "placeholderText": "Text"
+  },
+  "postItem": {
+    "delete": "Delete"
+  }
+}

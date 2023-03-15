@@ -1,3 +1,11 @@
 .post__dislike {
+  margin-left: 20px;
   cursor: pointer;
+  background-image: url(../../../images/post/dislike.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 30px;
+  height: 30px;
+  border: none;
+  background-color: none;
 }

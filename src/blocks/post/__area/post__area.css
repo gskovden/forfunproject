@@ -1,6 +1,7 @@
 .post__area {
   display: flex;
   justify-content: flex-end;
+  align-items: center;
   width: 913px;
   margin-top: 20px;
 }

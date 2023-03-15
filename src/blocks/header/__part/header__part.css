@@ -5,6 +5,7 @@
   justify-content: center;
   cursor: pointer;
   min-height: 100%;
+  margin-left: 40px;
 }
 
 .header__part:hover .header__list {
